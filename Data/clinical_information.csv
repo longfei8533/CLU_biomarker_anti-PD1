@@ -1,0 +1,29 @@
+ID,Sex,Age,Primary site ,Degree of differentiation,Lauren's criteria,T,N,M,Clinical outcomes
+1,Female,49,Gastric antrum,Poorly differentiated,Diffuse,4,3,1,Progressors
+2,Male,63,Cardia,Moderate-poorly differentiated,Intestinal,4,0,1,Responders
+3,Male,48,Cardia,Moderate-poorly differentiated,Intestinal,4,1,1,Responders
+4,Female,73,Cardia,Poorly differentiated,Diffuse,4,1,1,Responders
+5,Male,51,Gastric fundus,Poorly differentiated,Diffuse,4,2,1,Progressors
+6,Female,62,Gastric antrum,Moderate-poorly differentiated,Mix,4,3,1,Progressors
+7,Male,59,Cardia,Moderate-poorly differentiated,Mix,4,3,1,Responders
+8,Male,63,Gastric body,Moderate-poorly differentiated,Diffuse,4,3,1,Progressors
+9,Male,37,Gastric antrum,Moderate-poorly differentiated,Mix,4,2,1,Progressors
+10,Female,62,Cardia,Poorly differentiated,Diffuse,4,2,1,Progressors
+11,Female,50,Gastric fundus,Poorly differentiated,Diffuse,4,3,1,Progressors
+12,Male,71,Gastric lesser curvature,Poorly differentiated,Diffuse,2,0,1,Responders
+13,Male,78,Cardia,Moderate differentiated,Intestinal,4,0,1,Progressors
+14,Male,69,Cardia,Moderate differentiated,Intestinal,4,1,1,Responders
+15,Male,57,Gastric wall,Moderate-poorly differentiated,Diffuse,2,0,1,Responders
+16,Female,52,Gastric antrum,Moderate differentiated,Mix,2,0,0,Responders
+17,Male,68,Cardia,Moderate-poorly differentiated,Diffuse,4,1,0,Progressors
+18,Female,42,Gastric fundus,Poorly differentiated,Diffuse,4,3,0,Responders
+19,Male,53,Cardia,Moderate-poorly differentiated,Mix,4,1,1,Responders
+20,Male,68,Cardia,Poorly differentiated,Diffuse,4,1,1,Progressors
+21,Male,57,Cardia,Moderate differentiated,Intestinal,4,1,1,Responders
+22,Male,67,Cardia,Poorly differentiated,Diffuse,4,0,1,Responders
+23,Male,49,Gastric antrum,Poorly differentiated,Diffuse,4,1,1,Progressors
+24,Female,52,Gastric antrum,Poorly differentiated,Diffuse,4,3,1,Responders
+25,Male,59,Cardia,Moderate-poorly differentiated,Mix,4,0,1,Responders
+26,Female,65,Cardia,Moderate differentiated,Intestinal,1,0,0,Responders
+27,Female,65,Gastric antrum,Poorly differentiated,Diffuse,4,3,0,Responders
+28,Male,51,Gastric antrum,Moderate-poorly differentiated,Intestinal,4,2,0,Responders
